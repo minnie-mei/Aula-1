@@ -1,2 +1,7 @@
 # Aula-1
 ...
+
+**DOIS ASTERISTICOS DEIXA O TEXTO EM NEGRITO**
+_O ANDERLINE DEIXA O TEXTO EM ITALICO_
+
+Bemvindo ao meu perfil 👩‍❤️‍💋‍👨
